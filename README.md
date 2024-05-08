@@ -2,6 +2,13 @@
 
 ![image-20240508102801757](img/image-20240508102801757.png)
 
+## Benchmark and model zoo
+
+|    Model    | Backbone |  MS  | Rotate | Lr schd |                           Download                           |
+| :---------: | :------: | :--: | :----: | :-----: | :----------------------------------------------------------: |
+|   PARDet    | R-50-FPN |  -   |   -    |   1x    | [BaiduNetDisk](https://pan.baidu.com/s/1UhMJJIRM5KkHtzLfJLo_nQ?pwd=5xn6)[5xn6] |
+| PARDet_ATSS | R-50-FPN |  -   |   -    |   1x    | [BaiduNetDisk](https://pan.baidu.com/s/137E32a0nOidwwdZpmx_PsQ?pwd=p4os)[p4os] |
+
 ## Installation
 
 create virtual environment

@@ -159,8 +159,8 @@ log_level = 'INFO'
 load_from = None
 resume_from = None
 workflow = [('train', 1)]
-# work_dir = '/data/Aerial/checkpoints/paper/pardet/sift_point_num20_con_4'
-work_dir = '/data/Aerial/checkpoints/paper/pardet/sift_point_num20_con_4_test'
+work_dir = '/data/Aerial/checkpoints/paper/pardet/sift_point_num20_con_4'
+# work_dir = '/data/Aerial/checkpoints/paper/pardet/sift_point_num20_con_4_test'
 # mAP: 0.6918160408480409
 # ap of each class: plane:0.883847935238136, baseball-diamond:0.7422178595611693, bridge:0.46572293324580355,
 # ground-track-field:0.6193992928727193, small-vehicle:0.7560542855202702, large-vehicle:0.6815530375529898,
