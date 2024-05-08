@@ -1,0 +1,10 @@
+# These must be installed before building mmdetection
+cython==0.29.33
+numpy
+opencv-contrib-python==4.2.0.32
+tqdm
+shapely
+timm
+yacs
+e2cnn
+omegaconf
